@@ -2,7 +2,7 @@ _core:
   default_config_hash: VDJxTZtQR21qB4lvOq8zszJZLvLKrSPQpdn2E3T71Ww
 langcode: en
 uuid: e9d69d5a-8b53-4fd8-b9b1-881615127e84
-name: 'My Gitpod Test'
+name: 'EW Training Playground'
 mail: admin@example.com
 slogan: ''
 page:
