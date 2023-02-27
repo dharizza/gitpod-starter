@@ -1,8 +1,8 @@
 _core:
   default_config_hash: VDJxTZtQR21qB4lvOq8zszJZLvLKrSPQpdn2E3T71Ww
 langcode: en
-uuid: e9d69d5a-8b53-4fd8-b9b1-881615127e84
-name: 'EW Training Playground'
+uuid: 54ccea2c-047e-4595-a41c-4da6c01358f5
+name: 'EW Training Sandbox'
 mail: admin@example.com
 slogan: ''
 page:
