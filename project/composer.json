@@ -15,14 +15,14 @@
         }
     ],
     "require": {
-        "composer/installers": "^2.0",
-        "drupal/core-composer-scaffold": "^10.2",
-        "drupal/core-project-message": "^10.2",
-        "drupal/core-recommended": "^10.2",
-        "drush/drush": "^12.5"
+        "composer/installers": "^2.3",
+        "drupal/core-composer-scaffold": "^11.0",
+        "drupal/core-project-message": "^11.0",
+        "drupal/core-recommended": "^11.0",
+        "drush/drush": "^13.2"
     },
     "require-dev": {
-        "drupal/core-dev": "^10.2"
+        "drupal/core-dev": "^11"
     },
     "conflict": {
         "drupal/drupal": "*"

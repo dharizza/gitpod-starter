@@ -1,4 +1,4 @@
-uuid: 4b734337-8557-40b0-bc09-67883fd291a3
+uuid: fce0ea4c-6c0d-46bc-abc3-e0d2dbd3ecdf
 langcode: en
 status: true
 dependencies:
@@ -10,6 +10,8 @@ dependencies:
   enforced:
     config:
       - search.page.help_search
+_core:
+  default_config_hash: 2ToeZLvlHKTeFY74gpgu1PejLoFyCECLO_gw6rAZwqw
 id: claro_help_search
 theme: claro
 region: help

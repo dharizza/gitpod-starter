@@ -1,8 +1,8 @@
 _core:
-  default_config_hash: VDJxTZtQR21qB4lvOq8zszJZLvLKrSPQpdn2E3T71Ww
+  default_config_hash: ijfbzDTN4CbE7Sr-6ubWzy_t1vH4OtU1doNCLssVz-4
 langcode: en
-uuid: 08f58602-f88f-479d-91e4-e43e9a754da3
-name: 'EW Training Playground'
+uuid: 4a3399e2-eeae-46f1-9a43-a1030dabfc7b
+name: 'Training Playground'
 mail: admin@example.com
 slogan: ''
 page:
