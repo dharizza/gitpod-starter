@@ -1,6 +1,6 @@
 _core:
-  minimal: 1000
   default_config_hash: 4GIX5Esnc_umpXUBj4IIocRX7Mt5fPhm4AgXfE3E56E
+  minimal: 1000
 module:
   announcements_feed: 0
   automated_cron: 0
